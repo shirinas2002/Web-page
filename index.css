@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(247, 230, 207);
+  
+}
+.x {
+  display: flex;
+  background: rgb(90, 3, 3);
+  flex-direction:column ;
+  width:280px;
+  min-height: 250px;
+  margin: 128px auto;
+  border-radius:10px;
+  color: white;
+  font-size: 15px;
+  padding: 50px;
+  
+}
+.r {
+  text-align: center;
+  padding: 200px;
+}
+
